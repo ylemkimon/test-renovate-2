@@ -1,5 +1,7 @@
 {
   "extends": [
-    "config:base"
-  ]
+    "config:base",
+    ":prHourlyLimitNone"
+  ],
+  "rangeStrategy": "update-lockfile"
 }
