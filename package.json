@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "debug": "^3.1.0"
+    "debug": "^4.0.0"
   },
   "engines": {
     "npm": "^1.0.0"
